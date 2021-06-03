@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The form of ordaining or consecrating of an archbishop or bishop; which is always to be performed upon some Sunday, or Holy-day.</title>
+            <author>Church of England.</author>
+         </titleStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79666</idno><idno type="EEBO-CITATION">45504436</idno>
+  <idno type="VID">171741</idno>
+  <idno type="EEBO-PROQUEST">2240915847</idno>
+  
+            <idno type="STC">Wing C4121AC</idno>
+            <idno type="STC">ESTC R173973</idno>
+            <idno type="OCLC">45504436</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A79666)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171741)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2588:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The form of ordaining or consecrating of an archbishop or bishop; which is always to be performed upon some Sunday, or Holy-day.</title>
+                  <author>Church of England.</author>
+               </titleStmt>
+               <extent>[11] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Consecration of bishops --  Church of England --  Forms.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ordination">
+            <pb facs="tcp:171741:1"/>
+            <head>THE Form of Ordaining or Consecrating of an ARCHBISHOP, or BISHOP; Which is always to be performed upon some Sunday, or Holy-day.</head>
+            <p>¶ <hi>When all things are duly prepared in the Church, and set in Order; after Morning Prayer is ended, the Archbishop (or some other Bishop appointed) shall begin the Communion-Service; in which this shall be</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>The Collect.</head>
+                        <p>
+                           <seg rend="decorInit">A</seg>Lmighty God, who by thy Son Iesus Christ didst give to thy holy Apostles many excel<g ref="char:EOLhyphen"/>lent Gifts, and didst charge them to feéd thy Flock; Give grace, we beseech theé, to all Bishops, the Pastors of thy Church, that they may diligently Preach thy Word, and duly Administer the godly Discipline thereof; and grant to the People, that they may obediently follow the same, that all may receive the crown of everlasting glory, through Iesus Christ our Lord. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ <hi>And another Bishop shall read</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="reading">
+                        <head>The Epistle.</head>
+                        <p>
+                           <seg rend="decorInit">T</seg>His is a true saying,<note place="margin">1 Tim. iij. 1.</note> If a man desire the Office of a Bishop, he desireth a good work. A Bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach, not given to wine, no striker, not greédy of filthy lucre; but patient, not a brawler, not covetous; one that ruleth well his own house, having his children in subjection with all gravity; (For if a man know not how to rule his own house, how shall he take care of the Church of God?) Not a novice, lest being lifted up with pride, he fall into the condemnation of the devil. Moreover, he must have a good report of them which are without, lest he fall into reproch, and the snare of the devil.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:171741:2"/>
+            <p> ¶ <hi>Or this, for the Epistle.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="reading">
+                        <p>
+                           <seg rend="decorInit">F</seg>Rom Miletus Paul sent to Ephesus,<note place="margin">Acts xx. 17.</note> and called the elders of the Church. And when they were come to him, he said unto them, Ye know from the first day that I came into Asia, after what manner I have beén with you at all seasons, serving the Lord with all humility of mind, and with many tears and temptations which befel me by the lying in wait of the Iews: And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house, testifying both to the Iews, and also to the Greeks, repentance toward God, and faith toward our Lord Iesus Christ. And now behold, I go bound in the spirit unto Ierusalem, not knowing the things that shall befall me there; save that the Holy Ghost witnesseth in every city, saying, That bonds and afflictions abide me. But none of these things move me, neither count I my life dear unto my self, so that I might finish my course with joy, and the Ministry which I have received of the Lord Iesus, to testifie the Gospel of the grace of God. And now behold, I know that ye all among whom I have gone preaching the Kingdom of God, shall see my face no more. Wherefore I take you to record this day, that I am pure from the bloud of all men. For I have not shunned to declare unto you all the counsel of God. Take heéd there<g ref="char:EOLhyphen"/>fore unto your selves, and to all the flock over the which the Holy Ghost hath made you Overseérs to feéd the Churh of God, which he hath purchased with his own bloud. For I know this, that after my departing, shall grievous wolves enter in among you, not sparing the flock. Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them. Therefore watch, and remember, that by the space of threé years I ceased not to warn every one night and day with tears. And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified. I have coveted no mans silver, or gold, or apparel, yea, you your selves know, that these hands have ministred unto my ne<g ref="char:EOLhyphen"/>cessities, and to them that were with me. I have shewed you all things, how that so labouring ye ought to sup<g ref="char:EOLhyphen"/>port the weak, and to remember the words of the Lord Ie<g ref="char:EOLhyphen"/>sus, how he said, It is more blessed to give then to receive.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:171741:2"/>
+            <p> ¶ <hi>Then another Bishop shall read</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="gospel_reading">
+                        <head>The Gospel.</head>
+                        <p>
+                           <seg rend="decorInit">I</seg>Esus saith to Simon Peter, Simon,<note place="margin">S. John xxi. 15.</note> son of Ionas, lovest thou me more then these? He saith unto him, Yea, Lord, thou knowest that I love theé. He saith unto him, Feéd my lambs. He saith to him again the se<g ref="char:EOLhyphen"/>cond time, Simon, son of Ionas, lovest thou me? He saith unto him, Yea, Lord, thou knowest that I love thee. He saith unto him, Feéd my sheep. He saith unto him the third time, Simon, son of Ionas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love theé. Iesus saith un<g ref="char:EOLhyphen"/>to him, Feed my sheep.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ <hi>Or this.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="gospel_reading">
+                        <p>
+                           <seg rend="decorInit">T</seg>He same day at evening,<note place="margin">S. John xx. 19.</note> being the first day of the week, when the doors were shut, where the disci<g ref="char:EOLhyphen"/>ples were assembled for fear of the Iews, came Iesus and stood in the midst, and saith unto them, Peace be unto you. And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad when they saw the Lord. Then said Iesus to them again, Peace be unto you: As my Father hath sent me, even so send I you. And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost. Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ <hi>Or this.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="gospel_reading">
+                        <p>
+                           <seg rend="decorInit">I</seg>Esus came and spake unto them, saying,<note place="margin">S. Matth. xxviii. 19.</note> All pow<g ref="char:EOLhyphen"/>er is given unto me in heaven and in earth. Go ye therefore and teach all nations, baptizing them in the Name of the Father, and of the Son, and of the Holy Ghost: teaching them to observe all things what<g ref="char:EOLhyphen"/>soever I have commanded you: And so I am with you alway even unto the end of the world.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:171741:3"/>
+            <p> ¶ <hi>After the Gospel, and the Nicene Creed, and the Sermon are ended, the Elected Bishop (vested with his Rotchet) shall be presented by two Bishops unto the Archbishop of that Province, (or to some other Bishop appointed by lawful Commission) the Archbishop sitting in his Chair near the holy Table, and the Bi<g ref="char:EOLhyphen"/>shops that present him, saying,</hi>
+            </p>
+            <q>
+               <p>MOst Reverend Father in God, we present unto you this godly and well-learned Man, to be Ordained and Consecrated Bishop.</p>
+            </q>
+            <p>¶ <hi>Then shall the Archbishop demand the Kings Mandate for the Consecration, and cause it to be read. And the Oath touching the acknowledgment of the Kings Supremacy shall be ministred to the Persons Elected, as it is set down before in the Form for the Ordering of Deacons. And then shall also be ministred un<g ref="char:EOLhyphen"/>to them the Oath of due Obedience to the Archbishop, as fol<g ref="char:EOLhyphen"/>loweth.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <head>The Oath of due Obedience to the Archbishop.</head>
+                        <p>
+                           <seg rend="decorInit">I</seg>N the Name of God. Amen. I <hi>N.</hi> chosen Bishop of the Church and Seé of <hi>N.</hi> do profess and promise all due reverence and obedience to the Archbishop, and to the Metropolitical Church of <hi>N.</hi> and to their Suc<g ref="char:EOLhyphen"/>cessors; So help me God, through Iesus Christ.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ <hi>This Oath shall not be made at the Consecration of an Arch<g ref="char:EOLhyphen"/>bishop.</hi>
+            </p>
+            <p>¶ <hi>Then the Archbishop shall move the Congregation present to pray, saying thus to them,</hi>
+            </p>
+            <q>
+               <p>
+                  <seg rend="decorInit">B</seg>Rethren, it is written in the Gospel of S. Luke, That our Saviour Christ continued the whole night in Prayer, before he did choose and send forth his twelve Apostles. It is written also in the Acts of the Apostles, That the Disciples who were at Antioch, did fast and pray before they laid hands on Paul and Barnabas, and sent them forth. Let us therefore, following the ex<g ref="char:EOLhyphen"/>ample of our Saviour Christ and his Apostles, first fall to Prayer, before we admit and send forth this Person pre<g ref="char:EOLhyphen"/>sented unto us, to the work whereunto we trust the Holy Ghost hath called him.</p>
+            </q>
+            <pb facs="tcp:171741:3"/>
+            <p> ¶ <hi>And then shall be said the Litany, as before, in the Form of Ordering Deacons: save only that after this place, <hi>That it may please thee to illuminate all Bishops,</hi> &amp;c. the proper Suffrage there fol<g ref="char:EOLhyphen"/>lowing shall be omitted, and this inserted instead of it;</hi>
+            </p>
+            <q>
+               <p>THat it may please theé to bless this our Brother Elect<g ref="char:EOLhyphen"/>ed, and to send thy grace upon him, that he may duly execute the Office whereunto he is called, to the edifying of thy Church, and to the honour, praise, and glory of thy Name.</p>
+            </q>
+            <p>
+               <hi>Anser.</hi>
+            </p>
+            <q>
+               <p>
+                  <hi>We beseech thee to hear us, good Lord.</hi>
+               </p>
+            </q>
+            <p>¶ <hi>Then shall be said this Prayer following.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>
+                           <seg rend="decorInit">A</seg>Lmighty God, giver of all good things, who by thy holy Spirit hast appointed divers Orders of Ministers in thy Church; Mercifully behold this thy servant now called to the Work and Ministry of a Bi<g ref="char:EOLhyphen"/>shop, and replenish him so with the truth of thy Doctrine, and adorn him with innocency of life, that both by word and deéd he may faithfully serve theé in this Office, to the glory of thy Name, and the edifying and well governing of thy Church, through the merits of our Saviour Iesus Christ, who liveth and reigneth with thee and the Holy Ghost, world without end. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ <hi>Then the Archbishop, sitting in his Chair, shall say to him that is to be Consecrated,</hi>
+            </p>
+            <q>
+               <p>
+                  <seg rend="decorInit">B</seg>Rother, forasmuch as the holy Scripture, and the ancient Canons command, that we should not be hasty in laying on Hands, and admitting any Per<g ref="char:EOLhyphen"/>son to Government in the Church of Christ, which he hath purchased with no less price then the effusion of his own blond; before I admit you to this Administration, I will examine you in certain Articles, to the end that the Con<g ref="char:EOLhyphen"/>gregation present may have a trial, and bear witness how you be minded to behave your self in the Church of God.</p>
+               <p>ARe you perswaded that you be truly called to this Ministration, according to the will of our Lord Ie<g ref="char:EOLhyphen"/>sus Christ, and the Order of this Realm?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I am so perswaded.</p>
+            </q>
+            <pb facs="tcp:171741:4"/>
+            <p>
+               <hi>The Archbishop.</hi>
+            </p>
+            <q>
+               <p>ARe you perswaded that the holy Scriptures contain sufficiently all Doctrine required of necessity to eter<g ref="char:EOLhyphen"/>nal salvation through Faith in Iesus Christ? And are you determined out of the same holy Scriptures to in<g ref="char:EOLhyphen"/>struct the people committed to your charge; and to teach or maintain nothing, as required of necessity to eternal salvation, but that which you shall be perswaded may be concluded and proved by the same?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I am so perswaded and determined by Gods grace.</p>
+            </q>
+            <p>
+               <hi>The Archbishop.</hi>
+            </p>
+            <q>
+               <p>WIll you then faithfully exercise your self in the same holy Scriptures, and call upon God by prayer, for the true understanding of the same; so as ye may be able by them to teach and exhort with wholsom Doctrine, and to withstand and convince the gain-sayers?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I will so do by the help of God.</p>
+            </q>
+            <p>
+               <hi>The Archbishop.</hi>
+            </p>
+            <q>
+               <p>ARe you ready with all faithful diligence to banish and drive away all erroneous and strange Doctrine, contrary to Gods Word; and both privately and openly to call upon, and encourage others to the same?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I am ready, the Lord being my helper.</p>
+            </q>
+            <p>
+               <hi>The Archbishop.</hi>
+            </p>
+            <q>
+               <p>WIll you deny all ungodliness and worldly lusts, and live soverly, righteously, and godly in this present world, that you may shew your self in all things an example of good works unto others, that the adversa<g ref="char:EOLhyphen"/>ry may be ashamed having nothing to say against you?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I will so do, the Lord being my helper.</p>
+            </q>
+            <p>
+               <hi>The Archbishop.</hi>
+            </p>
+            <q>
+               <p>WIll you maintain and set forward, as much as shall lie in you, quietness, love, and peace among all men; and such as be unquiet, disobedient, and crimi<g ref="char:EOLhyphen"/>nous within your Diocess, correct and punish, according
+<pb facs="tcp:171741:4"/>to such authority as you have by Gods Word, and as to you shall be committed by the Ordinance of this Realm?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I will so do by the help of God.</p>
+            </q>
+            <p>
+               <hi>The Archbishop.</hi>
+            </p>
+            <q>
+               <p>WIll you be faithful in Ordaining, Sending, or Laying Hands upon others?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I will so be by the help of God.</p>
+            </q>
+            <p>
+               <hi>The Archbishop.</hi>
+            </p>
+            <q>
+               <p>WIll you shew your self gentle, and be merciful for Christs sake to poor and neédy people, and to all strangers destitute of help?</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>I will so shew my self, by Gods help.</p>
+            </q>
+            <p>¶ <hi>Then the Archbishop standing up, shall say,</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>
+                           <seg rend="decorInit">A</seg>Lmighty God, our heavenly Father, who hath given you a good will to do all these things, grant also unto you strength and power to per<g ref="char:EOLhyphen"/>form the same; that he accomplishing in you the good work which he hath begun, you may be found per<g ref="char:EOLhyphen"/>fect and irreprehensible at the latter day, through Iesus Christ our Lord. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ <hi>Then shall the Bishop Elect put on the rest of the Episcopal Habit, and kneeling down <hi>[Veni, Creator Spiritus]</hi> shall be sung or said over him, the Archbishop beginning, and the Bishops, with others that are present, answering by Verses, as followeth.</hi>
+            </p>
+            <l>COme, Holy Ghost, our souls inspire,</l>
+            <l>
+               <hi>And lighten with celestial fire.</hi>
+            </l>
+            <l>Thou the anointing Spirit art,</l>
+            <l>
+               <hi>Who dost thy sevenfold Gifts impart.</hi>
+            </l>
+            <l>Thy blessed Vnction from above,</l>
+            <l>
+               <hi>Is comfort, life, and fire of love.</hi>
+            </l>
+            <l>Enable with perpetual light</l>
+            <l>
+               <hi>The dulness of our blinded sight.</hi>
+            </l>
+            <pb facs="tcp:171741:5"/>
+            <l> Anoint and cheér our soiled face</l>
+            <l>
+               <hi>With the abundance of thy grace.</hi>
+            </l>
+            <l>Keép far our foes, give peace at home:</l>
+            <l>
+               <hi>Where thou art guide, no ill can come.</hi>
+            </l>
+            <l>Teach us to know the Father, Son,</l>
+            <l>
+               <hi>And thee, of both, to be but one.</hi>
+            </l>
+            <l>That through the ages all along,</l>
+            <l>
+               <hi>This may be our endless song;</hi>
+            </l>
+            <l>Praise to thy eternal merit,</l>
+            <l>
+               <hi>Father, Son, and holy Spirit.</hi>
+            </l>
+            <p>¶ Or this.</p>
+            <l>COme, Holy Ghost, eternal God,</l>
+            <l>proceéding from above,</l>
+            <l>
+               <hi>Both from the Father and the Son,</hi>
+            </l>
+            <l>
+               <hi>the God of peace and love.</hi>
+            </l>
+            <l>Uisit our minds, into our hearts</l>
+            <l>thy heavenly grace inspire,</l>
+            <l>
+               <hi>That truth and godliness we may</hi>
+            </l>
+            <l>
+               <hi>pursue with full desire.</hi>
+            </l>
+            <l>Thou art the very Comforter</l>
+            <l>in grief and all distress:</l>
+            <l>
+               <hi>The heavenly gift of God most high,</hi>
+            </l>
+            <l>
+               <hi>no tongue can it express.</hi>
+            </l>
+            <l>The fountain and the living spring</l>
+            <l>of joy celestial:</l>
+            <l>
+               <hi>The fire so bright, the love so sweet,</hi>
+            </l>
+            <l>
+               <hi>the Unction spiritual.</hi>
+            </l>
+            <l>Thou in thy gifts art manifold,</l>
+            <l>by them Christs Church doth stand:</l>
+            <l>
+               <hi>In faithful hearts thou writ'st thy law,</hi>
+            </l>
+            <l>
+               <hi>the finger of Gods hand.</hi>
+            </l>
+            <l>According to thy promise, Lord,</l>
+            <l>thou givest speéch with grace,</l>
+            <l>
+               <hi>That through thy help Gods praises may</hi>
+            </l>
+            <l>
+               <hi>resound in every place.</hi>
+            </l>
+            <l>O Holy Ghost, into our minds</l>
+            <l>send down thy heavenly light;</l>
+            <l>
+               <hi>Kindle our hearts with fervent zeal,</hi>
+            </l>
+            <l>
+               <hi>to serve God day and night.</hi>
+            </l>
+            <l>Our weakness strengthen and confirm</l>
+            <l>(for, Lord, thou know'st us frail)</l>
+            <l>
+               <hi>That neither devil, world, nor flesh</hi>
+            </l>
+            <l>
+               <hi>against us may prevail.</hi>
+            </l>
+            <pb facs="tcp:171741:5"/>
+            <l> Put back our enemies far from us,</l>
+            <l>and help us to obtain</l>
+            <l>
+               <hi>Peace in our hearts with God and man,</hi>
+            </l>
+            <l>
+               <hi>(the best, the truest gain;)</hi>
+            </l>
+            <l>And grant that thou being, O Lord,</l>
+            <l>our leader and our guide,</l>
+            <l>
+               <hi>We may escape the snares of sin,</hi>
+            </l>
+            <l>
+               <hi>and ever from thee slide.</hi>
+            </l>
+            <l>Such measures of thy powerful grace,</l>
+            <l>grant, Lord, to us, we pray,</l>
+            <l>
+               <hi>That thou may'st be our Comforter</hi>
+            </l>
+            <l>
+               <hi>at the last dreadful day.</hi>
+            </l>
+            <l>Of strife and of dissension</l>
+            <l>dissolve, O Lord, the bands,</l>
+            <l>
+               <hi>And knit the knots of peace and love</hi>
+            </l>
+            <l>
+               <hi>throughout all Christian Lands.</hi>
+            </l>
+            <l>Grant us the grace that we may know</l>
+            <l>the Father of all might,</l>
+            <l>
+               <hi>That we of his beloved Son</hi>
+            </l>
+            <l>
+               <hi>may gain the blissful sight,</hi>
+            </l>
+            <l>And that we may with perfect faith</l>
+            <l>ever acknowledge thee,</l>
+            <l>
+               <hi>The Spirit of Father, and of Son,</hi>
+            </l>
+            <l>
+               <hi>One God in Persons three.</hi>
+            </l>
+            <l>To God the Father, laud and praise,</l>
+            <l>and to his blessed Son,</l>
+            <l>
+               <hi>And to the holy Spirit of grace,</hi>
+            </l>
+            <l>
+               <hi>Co-equal three in one.</hi>
+            </l>
+            <l>And pray we that our only Lord</l>
+            <l>would please his Spirit to send</l>
+            <l>
+               <hi>On all that shall profess his Name,</hi>
+            </l>
+            <l>
+               <hi>from hence to the worlds end.</hi>
+            </l>
+            <l>
+               <hi>Amen.</hi>
+            </l>
+            <p>¶ <hi>That ended, the Archbishop shall say,</hi>
+            </p>
+            <q>
+               <p>Lord, hear our prayer.</p>
+            </q>
+            <p>
+               <hi>Answer.</hi>
+            </p>
+            <q>
+               <p>And let our cry come unto thee.</p>
+            </q>
+            <pb facs="tcp:171741:6"/>
+            <p>
+               <hi>Archbishop.</hi>
+            </p>
+            <q>
+               <p>Let us pray.</p>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>
+                           <seg rend="decorInit">A</seg>Lmighty God, and most merciful Father, who of thine infinite goodness hast given thy only and dearly beloved Son Iesus Christ to be our Re<g ref="char:EOLhyphen"/>deemer, and the Author of everlasting life; who after that he had made perfect our Redemption by his death, and was ascended into heaven, poured down abun<g ref="char:EOLhyphen"/>dantly his Gifts upon men, making some Apostles, some Prophets, some Evangelists, some Pastors and Doctors, to the edifying and making perfect his Church; Grant, we beseech thee, to this thy Servant such grace, that he may evermore be ready to spread abroad thy Gospel, the glad tidings of reconciliation with thee, and use the Au<g ref="char:EOLhyphen"/>thority given him, not to destruction, but to salvation; not to hurt, but to help; so that as a wise and faithful Ser<g ref="char:EOLhyphen"/>vant, giving to thy Family their portion in due season, he may at last be received into everlasting joy, through Ie<g ref="char:EOLhyphen"/>sus Christ our Lord, who with thee and the Holy Ghost, liveth and reigneth one God, world without end. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>¶ <hi>Then the Archbishop and Bishops present, shall lay their Hands upon the Head of the Elected Bishop, kneeling before them upon his Knees, the Archbishop saying,</hi>
+            </p>
+            <q>
+               <p>REceive the Holy Ghost, for the Office and Work of a Bishop in the Church of God, now committed unto thee by the Imposition of our Hands; In the Name of the Father, and of the Son, and of the Holy Ghost. Amen. And remember that thou stir up the grace of God which is given theé by this Imposition of our Hands: For God hath not given us the spirit of fear, but of power, and love, and soberness.</p>
+            </q>
+            <p>¶ <hi>Then the Archbishop shall deliver him the Bible, saying,</hi>
+            </p>
+            <q>
+               <p>GIve heéd unto Reading, Exhortation, and Doctrine. Think upon the things contained in this Book. Be diligent in them, that the increase coming thereby may be manifest unto all men. Take heéd unto thy self, and to Doctrine, and be diligent in doing them: for by so doing, thou shalt both save thy self, and them that hear theé. Be to the flock of Christ a shepherd, not a wolf; feéd them, de<g ref="char:EOLhyphen"/>vour them not. Hold up the weak, heal the sick, bind up the broken, bring again the outcasts, seék the lost. Be so merciful, that you be not too remiss; so minister Disci<g ref="char:EOLhyphen"/>pline,
+<pb facs="tcp:171741:6"/>that you forget not mercy: that when the chief Shepherd shall appear, you may receive the never-fading crown of glory, through Iesus Christ our Lord. <hi>Amen.</hi>
+               </p>
+            </q>
+            <p>¶ <hi>Then the Archbishop shall proceed in the Communion-Ser<g ref="char:EOLhyphen"/>vice; with whom the new Consecrated Bishop (with others) shall also Communicate.</hi>
+            </p>
+            <p>¶ <hi>And for the last Collect, immediately before the Benediction, shall be said these Prayers.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>
+                           <seg rend="decorInit">M</seg>Ost merciful Father, we beseéch theé to send down upon this thy Servant thy heavenly Blessing, and so endue him with thy holy Spirit, that he Preaching thy Word, may not only be earnest to reprove, beseech and rebuke with all patience and do<g ref="char:EOLhyphen"/>ctrine; but also may be to such as believe, a wholsom Example in Word, in coversation, in love, in faith, in chastity, and in purity; that faithfully fulfilling his course, at the latter day he may receive the crown of righteousness laid up by the Lord the righteous Iudge, who liveth and reigneth one God with the Father, and the Holy Ghost, world without end. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>PRevent us, O Lord, in all our doings with thy most gracious favour, and further us with thy continual help; that in all our works begun, continued, and ended in thee, we may glorifie thy holy Name, and finally by thy mercy obtain everlasting life, through Iesus Christ our Lord. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>THe peace of God, which passeth all understanding, keép your hearts and minds in the knowledge and love of God, and of his Son Iesus Christ our Lord. And the blessing of God Almighty, the Father, the Son, and the holy Ghost, be amongst you, and remain with you al<g ref="char:EOLhyphen"/>ways. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
